@@ -21,6 +21,9 @@ Data Visualization
 📁 Arquivos
 HR_Analytics-4.csv — Dataset utilizado no projeto
 HR_Analytics.pbix — Arquivo do Power BI
+
+----------------------------------
+
 🇺🇸 English
 
 This project presents an HR Analytics Dashboard developed in Power BI, designed to transform employee data into visual insights to support analysis and decision-making.
